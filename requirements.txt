@@ -1,0 +1,10 @@
+Python 3.x
+TensorFlow/Keras
+Scikit-learn
+ccxt
+pandas & numpy
+Technical Analysis (ta) library
+matplotlib
+keras-tuner
+imbalanced-learn
+aiofiles
